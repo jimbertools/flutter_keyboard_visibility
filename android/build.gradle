@@ -1,4 +1,4 @@
-group 'com.github.adee42.keyboardvisibility'
+21group 'com.github.adee42.keyboardvisibility'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -22,10 +22,10 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 29
     
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 21
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     lintOptions {
