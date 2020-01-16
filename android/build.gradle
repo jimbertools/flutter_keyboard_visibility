@@ -1,4 +1,4 @@
-21group 'com.github.adee42.keyboardvisibility'
+group 'com.github.adee42.keyboardvisibility'
 version '1.0-SNAPSHOT'
 
 buildscript {
